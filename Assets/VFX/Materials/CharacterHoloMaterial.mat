@@ -240,7 +240,7 @@ Material:
     m_Colors:
     - Color_240633B6: {r: 7.481524, g: 32.419937, b: 68.04624, a: 0}
     - Color_9C2BF609: {r: 0.31639367, g: 0.8490566, b: 0.579894, a: 0}
-    - Vector2_FA5F2A85: {r: 1, g: 1.5, b: 0, a: 0}
+    - Vector2_FA5F2A85: {r: 1, g: 2, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}

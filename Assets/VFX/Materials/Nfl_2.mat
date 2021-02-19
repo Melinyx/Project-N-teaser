@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Nfl_2
+  m_Shader: {fileID: -6465566751694194690, guid: 6c4dee24c32a6824081b35f76fab2ba5, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_1EB1FE25:
+        m_Texture: {fileID: 2800000, guid: 72eebb53a3c2f4b4db4e00244749dca9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_25AC1138: 0.9
+    - Vector1_4A224A01: 15
+    - Vector1_81646ABD: 28
+    - Vector1_846AACD9: 15
+    - Vector1_DF34D056: 412
+    - Vector1_EBA03BC8: 0.15
+    m_Colors: []
+  m_BuildTextureStacks: []
