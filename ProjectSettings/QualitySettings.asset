@@ -31,8 +31,8 @@ QualitySettings:
     maximumLODLevel: 0
     streamingMipmapsActive: 1
     streamingMipmapsAddAllCameras: 1
-    streamingMipmapsMemoryBudget: 512
-    streamingMipmapsRenderersPerFrame: 512
+    streamingMipmapsMemoryBudget: 1024
+    streamingMipmapsRenderersPerFrame: 1024
     streamingMipmapsMaxLevelReduction: 2
     streamingMipmapsMaxFileIORequests: 1024
     particleRaycastBudget: 256
@@ -43,17 +43,4 @@ QualitySettings:
     customRenderPipeline: {fileID: 0}
     excludedTargetPlatforms: []
   m_PerPlatformDefaultQuality:
-    Android: 0
-    Nintendo 3DS: 0
-    Nintendo Switch: 0
-    PS4: 0
-    PSP2: 0
-    Stadia: 0
     Standalone: 0
-    Tizen: 0
-    WebGL: 0
-    WiiU: 0
-    Windows Store Apps: 0
-    XboxOne: 0
-    iPhone: 0
-    tvOS: 0
